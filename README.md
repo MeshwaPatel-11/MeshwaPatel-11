@@ -50,7 +50,7 @@ Built Power BI dashboards and analytics solutions to track KPIs, operational eff
 ---
 ## Technical Stack
 
-### Languages
+### Languages 
 Python
 ### Tools
 SQL, MySQL
