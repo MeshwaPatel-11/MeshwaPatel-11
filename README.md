@@ -2,7 +2,6 @@
 
 🎓 Master's in Data Science & Analytics @ Toronto Metropolitan University  
 📍 Toronto, Canada  
-💼 Data & Visualization Intern | Shipping & Receiving Associate @ Proax  
 🚀 Actively seeking: Junior Data Analyst |  Junior Data Engineer | Junior Data Scientist
 
 ---
