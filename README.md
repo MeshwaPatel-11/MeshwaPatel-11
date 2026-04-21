@@ -38,21 +38,28 @@ Developed Power BI dashboards to track KPIs, operational efficiency, and busines
 
 ## Technical Stack
 
-### Languages & Databases 
+**Languages & Databases**  
 Python, SQL, MySQL  
-### Machine Learning 
+
+**Machine Learning** 
 Supervised & Unsupervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, Cross-Validation  
-### Deep Learning
+
+**Deep Learning**
 TensorFlow, Keras, CNN, RNN, LSTM  
-### Natural Language Processing
+
+**Natural Language Processing**
 Text Preprocessing, TF-IDF, Word Embeddings, Text Classification  
-### LLM & AI Systems
+
+**LLM & AI Systems**
 Transformers, LangChain, FAISS, Retrieval-Augmented Generation (RAG)  
-### Data Analysis
+
+**Data Analysi**
 Pandas, NumPy, ETL Pipelines, Statistical Analysis  
-### Visualization
+
+**Visualization**
 Power BI, Tableau, Matplotlib, Seaborn, KPI Dashboards  
-### Tools
+
+**Tools**
 Excel, Jupyter Notebook, Visual Studio Code, Git  
 
 ---
@@ -67,7 +74,7 @@ Excel, Jupyter Notebook, Visual Studio Code, Git
 
 ## Links
 
-- LinkedIn: [https://www.linkedin.com/in/meshwapatel1403/]  
+- LinkedIn: https://www.linkedin.com/in/meshwapatel1403/  
 - GitHub: https://github.com/MeshwaPatel-11
 
 ---
