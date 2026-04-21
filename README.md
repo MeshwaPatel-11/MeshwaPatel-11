@@ -41,25 +41,25 @@ Developed Power BI dashboards to track KPIs, operational efficiency, and busines
 **Languages & Databases**  
 Python, SQL, MySQL  
 
-**Machine Learning** 
+**Machine Learning**   
 Supervised & Unsupervised Learning, Classification, Regression, Feature Engineering, Model Evaluation, Cross-Validation  
 
-**Deep Learning**
-TensorFlow, Keras, CNN, RNN, LSTM  
+**Deep Learning**     
+TensorFlow, Keras, Neural Networks (CNN, RNN, LSTM)
 
-**Natural Language Processing**
+**Natural Language Processing**      
 Text Preprocessing, TF-IDF, Word Embeddings, Text Classification  
 
-**LLM & AI Systems**
-Transformers, LangChain, FAISS, Retrieval-Augmented Generation (RAG)  
+**LLM & AI Systems**       
+ Retrieval-Augmented Generation (RAG)  
 
-**Data Analysi**
-Pandas, NumPy, ETL Pipelines, Statistical Analysis  
+**Data Analysis**      
+Pandas, NumPy, Statistical Analysis  
 
-**Visualization**
-Power BI, Tableau, Matplotlib, Seaborn, KPI Dashboards  
+**Visualization**     
+Power BI, Tableau, Matplotlib, Seaborn
 
-**Tools**
+**Tools**     
 Excel, Jupyter Notebook, Visual Studio Code, Git  
 
 ---
